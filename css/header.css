@@ -4,3 +4,8 @@
   padding: 5px 0;
   text-align: center;
 }
+
+.header-logo img{
+  display: block;
+  margin: 40px auto;
+}
